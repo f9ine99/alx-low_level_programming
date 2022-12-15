@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "fira.h"
+#include "main.h"
 
 /**
  * main - prints the largest of 3 integers
